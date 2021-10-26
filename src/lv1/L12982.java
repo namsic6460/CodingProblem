@@ -30,8 +30,6 @@ public class L12982 {
 			}
 		}
 		
-		System.out.println(count);
-		
 		return count;
 	}
 
